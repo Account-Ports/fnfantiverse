@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				182,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-87
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-38
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-49
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-30
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-65
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				2
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-30
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "antiBF fucking dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				70,
+				-30
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "antiBF dead loop",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				70,
+				-30
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "antiBF dead confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AntiBf",
+	"position": [
+		-20,
+		130
+	],
+	"healthicon": "antibf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		75,
+		255
+	],
+	"camera_position": [
+		190,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

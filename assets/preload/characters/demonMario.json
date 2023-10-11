@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "demonic mario idle"
+		},
+		{
+			"offsets": [
+				-70,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "demonic mario right"
+		},
+		{
+			"offsets": [
+				241,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "demonic mario left"
+		},
+		{
+			"offsets": [
+				14,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "demonic mario up"
+		},
+		{
+			"offsets": [
+				40,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "demonic mario down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Demonic_Mario",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "demon",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

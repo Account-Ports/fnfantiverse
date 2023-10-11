@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BloodSplat1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Splat10000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Splat10001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Splat10002" x="1331" y="0" width="1280" height="720"/>
+	<SubTexture name="Splat10003" x="1331" y="0" width="1280" height="720"/>
+	<SubTexture name="Splat10004" x="2662" y="0" width="1280" height="720"/>
+	<SubTexture name="Splat10005" x="2662" y="0" width="1280" height="720"/>
+</TextureAtlas>

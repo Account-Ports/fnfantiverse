@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				-117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				2,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "Idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown0"
+		},
+		{
+			"offsets": [
+				6,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-33
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-14
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missright0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-33
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missleft0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AP_lucas",
+	"position": [
+		-20,
+		80
+	],
+	"healthicon": "icon-lucasAP",
+	"flip_x": true,
+	"healthbar_colors": [
+		190,
+		3,
+		60
+	],
+	"camera_position": [
+		120,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

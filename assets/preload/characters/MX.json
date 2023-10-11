@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				154,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MX Note Left"
+		},
+		{
+			"offsets": [
+				2,
+				385
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MX Note Up"
+		},
+		{
+			"offsets": [
+				-233,
+				223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MX Note Right"
+		},
+		{
+			"offsets": [
+				21,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MX Note Down"
+		},
+		{
+			"offsets": [
+				-90,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MX idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MX",
+	"position": [
+		-680,
+		-150
+	],
+	"healthicon": "MX",
+	"flip_x": false,
+	"healthbar_colors": [
+		90,
+		0,
+		0
+	],
+	"camera_position": [
+		160,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

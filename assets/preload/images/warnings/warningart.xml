@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="warningart.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="warningPopup0000" x="0" y="0" width="1321" height="806" pivotX="39" pivotY="1.65"/>
+	<SubTexture name="warningPopup0001" x="0" y="0" width="1321" height="806"/>
+	<SubTexture name="warningPopup0002" x="0" y="0" width="1321" height="806"/>
+	<SubTexture name="warningPopup0003" x="0" y="0" width="1321" height="806"/>
+	<SubTexture name="warningPopup0004" x="0" y="0" width="1321" height="806"/>
+	<SubTexture name="warningPopup0005" x="0" y="0" width="1321" height="806"/>
+	<SubTexture name="warningPopup0006" x="0" y="0" width="1321" height="806"/>
+	<SubTexture name="warningPopup0007" x="0" y="0" width="1321" height="806"/>
+	<SubTexture name="warningPopup0008" x="0" y="0" width="1321" height="806"/>
+	<SubTexture name="warningPopup0009" x="0" y="0" width="1321" height="806"/>
+	<SubTexture name="warningPopup0010" x="0" y="806" width="1321" height="806"/>
+	<SubTexture name="warningPopup0011" x="0" y="806" width="1321" height="806"/>
+	<SubTexture name="warningPopup0012" x="0" y="806" width="1321" height="806"/>
+	<SubTexture name="warningPopup0013" x="0" y="806" width="1321" height="806"/>
+	<SubTexture name="warningPopup0014" x="0" y="806" width="1321" height="806"/>
+	<SubTexture name="warningPopup0015" x="0" y="806" width="1321" height="806"/>
+	<SubTexture name="warningPopup0016" x="0" y="806" width="1321" height="806"/>
+	<SubTexture name="warningPopup0017" x="0" y="806" width="1321" height="806"/>
+	<SubTexture name="warningPopup0018" x="0" y="806" width="1321" height="806"/>
+	<SubTexture name="warningPopup0019" x="0" y="806" width="1321" height="806"/>
+</TextureAtlas>

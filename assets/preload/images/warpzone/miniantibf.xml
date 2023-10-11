@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="miniantibf.png"><SubTexture name="miniantibf idle instance0000" x="51" y="0" width="45" height="69" frameX="0" frameY="0" frameWidth="45" frameHeight="69" />
+<SubTexture name="miniantibf walking instance0000" x="0" y="72" width="45" height="66" frameX="0" frameY="0" frameWidth="45" frameHeight="66" />
+<SubTexture name="miniantibf walking instance0001" x="96" y="0" width="51" height="69" frameX="0" frameY="0" frameWidth="51" frameHeight="69" />
+<SubTexture name="miniantibf pipe instance0000" x="0" y="0" width="51" height="72" frameX="0" frameY="0" frameWidth="51" frameHeight="72" />
+<SubTexture name="miniantibf jump instance0000" x="45" y="72" width="57" height="66" frameX="0" frameY="0" frameWidth="57" frameHeight="66" />
+</TextureAtlas>

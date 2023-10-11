@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sillycoreMARIOjump.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jumpIntro0000" x="0" y="0" width="739" height="1444" pivotX="765.85" pivotY="-515.45" frameX="-501" frameY="-1121" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0001" x="739" y="0" width="895" height="1273" frameX="-423" frameY="-644" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0002" x="1634" y="0" width="964" height="1175" frameX="-389" frameY="-439" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0003" x="2598" y="0" width="1173" height="1022" frameX="-280" frameY="-342" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0004" x="3771" y="0" width="1111" height="1076" frameX="-311" frameY="-322" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0005" x="4882" y="0" width="1111" height="1076" frameX="-311" frameY="-322" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0006" x="5993" y="0" width="1082" height="982" frameX="-340" frameY="-415" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0007" x="7075" y="0" width="1082" height="982" frameX="-340" frameY="-415" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0008" x="0" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0009" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0010" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0011" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0012" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0013" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0014" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0015" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0016" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0017" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0018" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0019" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0020" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0021" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0022" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0023" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0024" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0025" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0026" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0027" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0028" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0029" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0030" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0031" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0032" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0033" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0034" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0035" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0036" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0037" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0038" x="1087" y="1444" width="1087" height="1020" frameX="-335" frameY="-377" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0039" x="2174" y="1444" width="1792" height="1968" frameX="0" frameY="0" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0040" x="2174" y="1444" width="1792" height="1968" frameX="0" frameY="0" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0041" x="3966" y="1444" width="1792" height="1968" frameX="0" frameY="0" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0042" x="3966" y="1444" width="1792" height="1968" frameX="0" frameY="0" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0043" x="5758" y="1444" width="1792" height="1968" frameX="0" frameY="0" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0044" x="5758" y="1444" width="1792" height="1968" frameX="0" frameY="0" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0045" x="0" y="3412" width="1792" height="1968" frameX="0" frameY="-28" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0046" x="0" y="3412" width="1792" height="1968" frameX="0" frameY="-28" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0047" x="1792" y="3412" width="1792" height="1968" frameX="0" frameY="-28" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0048" x="1792" y="3412" width="1792" height="1968" frameX="0" frameY="-28" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0049" x="3584" y="3412" width="1792" height="1968" frameX="0" frameY="-28" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0050" x="3584" y="3412" width="1792" height="1968" frameX="0" frameY="-28" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0051" x="5376" y="3412" width="1792" height="1968" frameX="0" frameY="-28" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0052" x="5376" y="3412" width="1792" height="1968" frameX="0" frameY="-28" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0053" x="0" y="5380" width="1792" height="1968" frameX="0" frameY="-28" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0054" x="0" y="5380" width="1792" height="1968" frameX="0" frameY="-28" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0055" x="1792" y="5380" width="0" height="0" frameX="-765" frameY="515" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0056" x="1792" y="5380" width="0" height="0" frameX="-765" frameY="515" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0057" x="1792" y="5380" width="0" height="0" frameX="-765" frameY="515" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0058" x="1792" y="5380" width="0" height="0" frameX="-765" frameY="515" frameWidth="1792" frameHeight="2565"/>
+	<SubTexture name="jumpIntro0059" x="1792" y="5380" width="0" height="0" frameX="-765" frameY="515" frameWidth="1792" frameHeight="2565"/>
+</TextureAtlas>

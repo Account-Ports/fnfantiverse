@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"otherSheetName": "",
+			"indices": [],
+			"name": "DEMONIDLE"
+		},
+		{
+			"offsets": [
+				104,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"otherSheetName": "characters/speedDemon/Left&Right",
+			"indices": [],
+			"name": "DEMONLEFT"
+		},
+		{
+			"offsets": [
+				-230,
+				347
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"otherSheetName": "characters/speedDemon/Left&Right",
+			"indices": [],
+			"name": "DEMONRIGHT"
+		},
+		{
+			"offsets": [
+				-190,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"otherSheetName": "characters/speedDemon/Up&Down",
+			"indices": [],
+			"name": "DEMONDOWN"
+		},
+		{
+			"offsets": [
+				14,
+				292
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"otherSheetName": "characters/speedDemon/Up&Down",
+			"indices": [],
+			"name": "DEMONUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/speedDemon/speedDemonIdle",
+	"position": [
+		-1140,
+		-1210
+	],
+	"healthicon": "speedrun",
+	"flip_x": false,
+	"healthbar_colors": [
+		157,
+		0,
+		0
+	],
+	"camera_position": [
+		130,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

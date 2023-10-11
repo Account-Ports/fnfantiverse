@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "berserk idle"
+		},
+		{
+			"offsets": [
+				-15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "berserk left"
+		},
+		{
+			"offsets": [
+				-15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "berserk right"
+		},
+		{
+			"offsets": [
+				15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "berserk up"
+		},
+		{
+			"offsets": [
+				-15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "berserk down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BERSERKER",
+	"position": [
+		-60,
+		-200
+	],
+	"healthicon": "berserker",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		118,
+		0
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

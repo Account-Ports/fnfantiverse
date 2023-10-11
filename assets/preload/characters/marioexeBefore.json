@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				9,
+				67
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FakerLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				48
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FakerDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				87
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FakerUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				80
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "FakerIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FakerRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fakeMammaMiaPart1",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "fakemario",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		0,
+		0
+	],
+	"camera_position": [
+		80,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

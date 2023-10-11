@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				151,
+				66
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				-20
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				124,
+				296
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				344,
+				136
+			],
+			"loop": false,
+			"anim": "time",
+			"fps": 24,
+			"name": "Hurry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				80
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				163,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MARIO",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "marioexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		0,
+		0
+	],
+	"camera_position": [
+		80,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

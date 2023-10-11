@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LucasGameover.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ded0000" x="0" y="0" width="276" height="177" pivotX="0" pivotY="0"/>
+	<SubTexture name="Ded0001" x="0" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0002" x="0" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0003" x="0" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0004" x="0" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0005" x="0" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0006" x="0" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0007" x="0" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0008" x="276" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0009" x="276" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0010" x="276" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0011" x="276" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0012" x="276" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0013" x="276" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0014" x="276" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0015" x="276" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0016" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0017" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0018" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0019" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0020" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0021" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0022" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0023" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0024" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0025" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0026" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0027" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0028" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0029" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0030" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0031" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0032" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0033" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0034" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0035" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0036" x="552" y="0" width="276" height="177"/>
+	<SubTexture name="Ded0037" x="0" y="177" width="276" height="177"/>
+	<SubTexture name="Ded0038" x="0" y="177" width="276" height="177"/>
+	<SubTexture name="Ded0039" x="0" y="177" width="276" height="177"/>
+	<SubTexture name="Ded0040" x="276" y="177" width="276" height="177"/>
+	<SubTexture name="Ded0041" x="276" y="177" width="276" height="177"/>
+	<SubTexture name="Ded0042" x="276" y="177" width="276" height="177"/>
+	<SubTexture name="Ded0043" x="552" y="177" width="276" height="177"/>
+	<SubTexture name="Ded0044" x="552" y="177" width="276" height="177"/>
+	<SubTexture name="Ded0045" x="552" y="177" width="276" height="177"/>
+	<SubTexture name="RetryLoop0000" x="0" y="354" width="276" height="177" pivotX="0" pivotY="0"/>
+	<SubTexture name="RetryLoop0001" x="0" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0002" x="0" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0003" x="552" y="177" width="276" height="177"/>
+	<SubTexture name="RetryLoop0004" x="552" y="177" width="276" height="177"/>
+	<SubTexture name="RetryLoop0005" x="552" y="177" width="276" height="177"/>
+	<SubTexture name="RetryLoop0006" x="276" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0007" x="276" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0008" x="276" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0009" x="552" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0010" x="552" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0011" x="552" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0012" x="0" y="531" width="276" height="177"/>
+	<SubTexture name="RetryLoop0013" x="0" y="531" width="276" height="177"/>
+	<SubTexture name="RetryLoop0014" x="0" y="531" width="276" height="177"/>
+	<SubTexture name="RetryLoop0015" x="0" y="531" width="276" height="177"/>
+	<SubTexture name="RetryLoop0016" x="0" y="531" width="276" height="177"/>
+	<SubTexture name="RetryLoop0017" x="0" y="531" width="276" height="177"/>
+	<SubTexture name="RetryLoop0018" x="552" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0019" x="552" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0020" x="552" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0021" x="276" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0022" x="276" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0023" x="276" y="354" width="276" height="177"/>
+	<SubTexture name="RetryLoop0024" x="552" y="177" width="276" height="177"/>
+	<SubTexture name="RetryLoop0025" x="552" y="177" width="276" height="177"/>
+	<SubTexture name="RetryLoop0026" x="552" y="177" width="276" height="177"/>
+	<SubTexture name="RetrySelect0000" x="276" y="531" width="276" height="177" pivotX="0" pivotY="0"/>
+	<SubTexture name="RetrySelect0001" x="276" y="531" width="276" height="177"/>
+	<SubTexture name="RetrySelect0002" x="276" y="531" width="276" height="177"/>
+	<SubTexture name="RetrySelect0003" x="552" y="531" width="276" height="177"/>
+	<SubTexture name="RetrySelect0004" x="552" y="531" width="276" height="177"/>
+	<SubTexture name="RetrySelect0005" x="552" y="531" width="276" height="177"/>
+	<SubTexture name="RetrySelect0006" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0007" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0008" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0009" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0010" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0011" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0012" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0013" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0014" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0015" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0016" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0017" x="0" y="708" width="276" height="177"/>
+	<SubTexture name="RetrySelect0018" x="0" y="708" width="276" height="177"/>
+</TextureAtlas>

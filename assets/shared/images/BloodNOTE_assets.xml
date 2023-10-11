@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BloodNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="48" y="739" width="156" height="177" pivotX="0.7" pivotY="-0.5" frameX="0" frameY="0" frameWidth="156" frameHeight="179"/>
+	<SubTexture name="blue0001" x="48" y="739" width="156" height="177" frameX="0" frameY="0" frameWidth="156" frameHeight="179"/>
+	<SubTexture name="blue0002" x="48" y="509" width="156" height="179"/>
+	<SubTexture name="blue0003" x="48" y="509" width="156" height="179"/>
+	<SubTexture name="blue hold end0000" x="256" y="269" width="50" height="88" pivotX="0.2" pivotY="0.05"/>
+	<SubTexture name="blue hold end0001" x="256" y="269" width="50" height="88"/>
+	<SubTexture name="blue hold end0002" x="357" y="269" width="50" height="88"/>
+	<SubTexture name="blue hold end0003" x="357" y="269" width="50" height="88"/>
+	<SubTexture name="blue hold piece0000" x="256" y="408" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="green0000" x="48" y="280" width="157" height="178" pivotX="0" pivotY="0.05" frameX="0" frameY="0" frameWidth="157" frameHeight="181"/>
+	<SubTexture name="green0001" x="48" y="280" width="157" height="178" frameX="0" frameY="0" frameWidth="157" frameHeight="181"/>
+	<SubTexture name="green0002" x="48" y="48" width="157" height="181"/>
+	<SubTexture name="green0003" x="48" y="48" width="157" height="181"/>
+	<SubTexture name="green hold end0000" x="256" y="269" width="50" height="88" pivotX="0.2" pivotY="0.05"/>
+	<SubTexture name="green hold end0001" x="256" y="269" width="50" height="88"/>
+	<SubTexture name="green hold end0002" x="357" y="269" width="50" height="88"/>
+	<SubTexture name="green hold end0003" x="357" y="269" width="50" height="88"/>
+	<SubTexture name="green hold piece0000" x="256" y="408" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="purple0000" x="256" y="48" width="154" height="170" pivotX="0" pivotY="1.4" frameX="0" frameY="0" frameWidth="154" frameHeight="172"/>
+	<SubTexture name="purple0001" x="256" y="48" width="154" height="170" frameX="0" frameY="0" frameWidth="154" frameHeight="172"/>
+	<SubTexture name="purple0002" x="255" y="509" width="154" height="172"/>
+	<SubTexture name="purple0003" x="255" y="509" width="154" height="172"/>
+	<SubTexture name="purple hold end0000" x="256" y="269" width="50" height="88" pivotX="0.2" pivotY="0.05"/>
+	<SubTexture name="purple hold end0001" x="256" y="269" width="50" height="88"/>
+	<SubTexture name="purple hold end0002" x="357" y="269" width="50" height="88"/>
+	<SubTexture name="purple hold end0003" x="357" y="269" width="50" height="88"/>
+	<SubTexture name="purple hold piece0000" x="256" y="408" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="red0000" x="255" y="732" width="154" height="171" pivotX="-1.2" pivotY="-1.8"/>
+	<SubTexture name="red hold end0000" x="256" y="269" width="50" height="88" pivotX="0.2" pivotY="0.05"/>
+	<SubTexture name="red hold end0001" x="256" y="269" width="50" height="88"/>
+	<SubTexture name="red hold end0002" x="357" y="269" width="50" height="88"/>
+	<SubTexture name="red hold end0003" x="357" y="269" width="50" height="88"/>
+	<SubTexture name="red hold piece0000" x="256" y="408" width="50" height="44" pivotX="0" pivotY="0"/>
+</TextureAtlas>

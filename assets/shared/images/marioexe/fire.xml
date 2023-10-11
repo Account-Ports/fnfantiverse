@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fire.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fire0000" x="0" y="0" width="302" height="109" pivotX="-46" pivotY="214" frameX="-6" frameY="-51" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0001" x="0" y="0" width="302" height="109" frameX="-6" frameY="-51" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0002" x="0" y="0" width="302" height="109" frameX="-6" frameY="-51" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0003" x="0" y="0" width="302" height="109" frameX="-6" frameY="-51" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0004" x="302" y="0" width="328" height="133" frameX="-4" frameY="-32" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0005" x="302" y="0" width="328" height="133" frameX="-4" frameY="-32" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0006" x="302" y="0" width="328" height="133" frameX="-4" frameY="-32" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0007" x="302" y="0" width="328" height="133" frameX="-4" frameY="-32" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0008" x="630" y="0" width="323" height="144" frameX="-2" frameY="-9" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0009" x="630" y="0" width="323" height="144" frameX="-2" frameY="-9" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0010" x="630" y="0" width="323" height="144" frameX="-2" frameY="-9" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0011" x="630" y="0" width="323" height="144" frameX="-2" frameY="-9" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0012" x="0" y="144" width="331" height="157" frameX="0" frameY="0" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0013" x="0" y="144" width="331" height="157" frameX="0" frameY="0" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0014" x="0" y="144" width="331" height="157" frameX="0" frameY="0" frameWidth="332" frameHeight="165"/>
+	<SubTexture name="fire0015" x="0" y="144" width="331" height="157" frameX="0" frameY="0" frameWidth="332" frameHeight="165"/>
+</TextureAtlas>

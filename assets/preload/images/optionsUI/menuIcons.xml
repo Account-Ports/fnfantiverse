@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuIcons.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AdjustDelayandUI" x="0" y="0" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="Controls" x="32" y="0" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="EmptyBox" x="64" y="0" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="Gameplay" x="96" y="0" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="Graphics" x="0" y="32" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="NoteColors" x="32" y="32" width="32" height="32" pivotX="0" pivotY="0"/>
+	<SubTexture name="VisualsAndUI" x="64" y="32" width="32" height="32" pivotX="0" pivotY="0"/>
+</TextureAtlas>

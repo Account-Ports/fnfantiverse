@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bowser.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fly0000" x="36" y="36" width="585" height="926" pivotX="0.5" pivotY="2.3"/>
+	<SubTexture name="fly0001" x="36" y="998" width="583" height="921" frameX="0" frameY="-2" frameWidth="585" frameHeight="926"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				-37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "APLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "APDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "APRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "APIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				149
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "APUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SMB_AntiPiracy",
+	"position": [
+		720,
+		400
+	],
+	"healthicon": "apPixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		106
+	],
+	"camera_position": [
+		-170,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

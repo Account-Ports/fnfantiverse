@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle instância 1"
+		},
+		{
+			"offsets": [
+				190,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left instância 1"
+		},
+		{
+			"offsets": [
+				300,
+				-280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down instância 1"
+		},
+		{
+			"offsets": [
+				-80,
+				221
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up instância 1"
+		},
+		{
+			"offsets": [
+				-20,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right instância 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fnfboy",
+	"position": [
+		-30,
+		160
+	],
+	"healthicon": "boyfnf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		460,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="left_arrow_.png"><SubTexture name="left_arrow_ idle0000" x="0" y="0" width="61" height="112" frameX="0" frameY="0" frameWidth="61" frameHeight="112" />
+<SubTexture name="left_arrow_ press0000" x="61" y="0" width="52" height="91" frameX="0" frameY="0" frameWidth="52" frameHeight="91" />
+<SubTexture name="left_arrow_ press0001" x="0" y="112" width="52" height="91" frameX="0" frameY="0" frameWidth="52" frameHeight="91" />
+<SubTexture name="left_arrow_ press0002" x="52" y="112" width="52" height="91" frameX="0" frameY="0" frameWidth="52" frameHeight="91" />
+<SubTexture name="left_arrow_ press0003" x="0" y="203" width="52" height="91" frameX="0" frameY="0" frameWidth="52" frameHeight="91" />
+</TextureAtlas>

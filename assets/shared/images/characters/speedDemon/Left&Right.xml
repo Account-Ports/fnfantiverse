@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Left&Right.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DEMONLEFT0000" x="36" y="2098" width="2895" height="1813" pivotX="643.75" pivotY="1135.55" frameX="0" frameY="-15" frameWidth="2913" frameHeight="1828"/>
+	<SubTexture name="DEMONLEFT0001" x="36" y="2098" width="2895" height="1813" frameX="0" frameY="-15" frameWidth="2913" frameHeight="1828"/>
+	<SubTexture name="DEMONLEFT0002" x="2898" y="3959" width="2830" height="1790" frameX="-77" frameY="-5" frameWidth="2913" frameHeight="1828"/>
+	<SubTexture name="DEMONLEFT0003" x="2898" y="3959" width="2830" height="1790" frameX="-77" frameY="-5" frameWidth="2913" frameHeight="1828"/>
+	<SubTexture name="DEMONLEFT0004" x="36" y="3947" width="2826" height="1793" frameX="-87" frameY="0" frameWidth="2913" frameHeight="1828"/>
+	<SubTexture name="DEMONLEFT0005" x="36" y="3947" width="2826" height="1793" frameX="-87" frameY="0" frameWidth="2913" frameHeight="1828"/>
+	<SubTexture name="DEMONRIGHT0000" x="3439" y="2073" width="3450" height="1850" pivotX="1546.05" pivotY="814.6" frameX="-67" frameY="-175" frameWidth="3517" frameHeight="2026"/>
+	<SubTexture name="DEMONRIGHT0001" x="3439" y="2073" width="3450" height="1850" frameX="-67" frameY="-175" frameWidth="3517" frameHeight="2026"/>
+	<SubTexture name="DEMONRIGHT0002" x="3439" y="36" width="3363" height="2001" frameX="-18" frameY="-25" frameWidth="3517" frameHeight="2026"/>
+	<SubTexture name="DEMONRIGHT0003" x="3439" y="36" width="3363" height="2001" frameX="-18" frameY="-25" frameWidth="3517" frameHeight="2026"/>
+	<SubTexture name="DEMONRIGHT0004" x="36" y="36" width="3367" height="2026" frameX="0" frameY="0" frameWidth="3517" frameHeight="2026"/>
+	<SubTexture name="DEMONRIGHT0005" x="36" y="36" width="3367" height="2026" frameX="0" frameY="0" frameWidth="3517" frameHeight="2026"/>
+</TextureAtlas>

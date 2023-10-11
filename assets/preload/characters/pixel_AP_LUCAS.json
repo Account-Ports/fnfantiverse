@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RMiss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LMiss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-18
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DMiss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "UMiss0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/APLucas",
+	"position": [
+		-250,
+		460
+	],
+	"healthicon": "APSMBLucas",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		0,
+		75
+	],
+	"camera_position": [
+		110,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

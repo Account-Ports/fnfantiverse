@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				134,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Faceless Note Left"
+		},
+		{
+			"offsets": [
+				761,
+				315
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-mad",
+			"indices": [],
+			"name": "Beast Note Left"
+		},
+		{
+			"offsets": [
+				60,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Faceless Idle"
+		},
+		{
+			"offsets": [
+				91,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Faceless Note Right"
+		},
+		{
+			"offsets": [
+				253,
+				179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-mad",
+			"indices": [],
+			"name": "Beast Note Right"
+		},
+		{
+			"offsets": [
+				252,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-mad",
+			"indices": [],
+			"name": "Beast Idle"
+		},
+		{
+			"offsets": [
+				100,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Faceless Note Up"
+		},
+		{
+			"offsets": [
+				604,
+				625
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-mad",
+			"indices": [],
+			"name": "Beast Note Up"
+		},
+		{
+			"offsets": [
+				99,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Faceless Note Down"
+		},
+		{
+			"offsets": [
+				578,
+				129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-mad",
+			"indices": [],
+			"name": "Beast Note Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FacelessNew",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "faceless",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		25,
+		27
+	],
+	"camera_position": [
+		-60,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

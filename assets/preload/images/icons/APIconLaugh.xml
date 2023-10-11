@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="APIconLaugh.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IconLaugh0000" x="20" y="20" width="270" height="360" frameX="0" frameY="0" frameWidth="270" frameHeight="361"/>
+	<SubTexture name="IconLaugh0001" x="20" y="20" width="270" height="360" frameX="0" frameY="0" frameWidth="270" frameHeight="361"/>
+	<SubTexture name="IconLaugh0002" x="310" y="20" width="270" height="360" frameX="0" frameY="0" frameWidth="270" frameHeight="361"/>
+	<SubTexture name="IconLaugh0003" x="310" y="20" width="270" height="360" frameX="0" frameY="0" frameWidth="270" frameHeight="361"/>
+	<SubTexture name="IconLaugh0004" x="600" y="20" width="270" height="360" frameX="0" frameY="-1" frameWidth="270" frameHeight="361"/>
+	<SubTexture name="IconLaugh0005" x="600" y="20" width="270" height="360" frameX="0" frameY="-1" frameWidth="270" frameHeight="361"/>
+	<SubTexture name="IconLaugh0006" x="20" y="400" width="270" height="360" frameX="0" frameY="-1" frameWidth="270" frameHeight="361"/>
+	<SubTexture name="IconLaugh0007" x="20" y="400" width="270" height="360" frameX="0" frameY="-1" frameWidth="270" frameHeight="361"/>
+	<SubTexture name="IconLaugh0008" x="310" y="400" width="270" height="360" frameX="0" frameY="-1" frameWidth="270" frameHeight="361"/>
+	<SubTexture name="IconLaugh0009" x="310" y="400" width="270" height="360" frameX="0" frameY="-1" frameWidth="270" frameHeight="361"/>
+</TextureAtlas>

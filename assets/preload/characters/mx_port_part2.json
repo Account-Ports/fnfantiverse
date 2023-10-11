@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-114,
+				354
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-182,
+				586
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-90,
+				238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-142,
+				282
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-90,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/innomxpart2",
+	"position": [
+		-10,
+		180
+	],
+	"healthicon": "MXRevolt",
+	"flip_x": false,
+	"healthbar_colors": [
+		90,
+		0,
+		0
+	],
+	"camera_position": [
+		-310,
+		-470
+	],
+	"sing_duration": 6.1,
+	"scale": 4
+}

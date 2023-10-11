@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BloodSplats.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bloodsplat20000" x="0" y="0" width="347" height="294" pivotX="0" pivotY="0"/>
+	<SubTexture name="bloodsplat20001" x="0" y="0" width="347" height="294"/>
+	<SubTexture name="bloodsplat20002" x="398" y="0" width="345" height="293" frameX="0" frameY="-1" frameWidth="347" frameHeight="294"/>
+	<SubTexture name="bloodsplat20003" x="398" y="0" width="345" height="293" frameX="0" frameY="-1" frameWidth="347" frameHeight="294"/>
+	<SubTexture name="bloodsplat20004" x="794" y="0" width="344" height="293" frameX="0" frameY="-1" frameWidth="347" frameHeight="294"/>
+	<SubTexture name="bloodsplat20005" x="794" y="0" width="344" height="293" frameX="0" frameY="-1" frameWidth="347" frameHeight="294"/>
+	<SubTexture name="bloodsplat30000" x="1189" y="0" width="323" height="291" pivotX="0" pivotY="0"/>
+	<SubTexture name="bloodsplat30001" x="1189" y="0" width="323" height="291"/>
+	<SubTexture name="bloodsplat30002" x="1563" y="0" width="323" height="291"/>
+	<SubTexture name="bloodsplat30003" x="1563" y="0" width="323" height="291"/>
+	<SubTexture name="bloodsplat30004" x="1937" y="0" width="323" height="288" frameX="0" frameY="-3" frameWidth="323" frameHeight="291"/>
+	<SubTexture name="bloodsplat30005" x="1937" y="0" width="323" height="288" frameX="0" frameY="-3" frameWidth="323" frameHeight="291"/>
+</TextureAtlas>

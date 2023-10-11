@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF Left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Down0"
+		},
+		{
+			"offsets": [
+				8,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-58,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Right0"
+		},
+		{
+			"offsets": [
+				8,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF LeftMISS"
+		},
+		{
+			"offsets": [
+				-4,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF DownMISS"
+		},
+		{
+			"offsets": [
+				8,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF UpMISS"
+		},
+		{
+			"offsets": [
+				-58,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF RightMISS"
+		},
+		{
+			"offsets": [
+				626,
+				498
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF DeathStart"
+		},
+		{
+			"offsets": [
+				627,
+				498
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF DeathLoop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				627,
+				498
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"otherSheetName": "",
+			"name": "BF DeathConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/TurmoilAntiBF_ASSETS",
+	"position": [
+		710,
+		820
+	],
+	"healthicon": "turmoilantibf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		75,
+		255
+	],
+	"camera_position": [
+		1460,
+		-1050
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

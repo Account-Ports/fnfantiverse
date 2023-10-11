@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speedDemonIdle.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DEMONIDLE0000" x="2889" y="3832" width="2789" height="1873" pivotX="-41.25" pivotY="11.1" frameX="-23" frameY="-11" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0001" x="2889" y="3832" width="2789" height="1873" frameX="-23" frameY="-11" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0002" x="36" y="5747" width="2759" height="1867" frameX="-39" frameY="0" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0003" x="36" y="5747" width="2759" height="1867" frameX="-39" frameY="0" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0004" x="36" y="3846" width="2800" height="1865" frameX="-23" frameY="-11" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0005" x="2872" y="5741" width="2800" height="1865" frameX="-23" frameY="-11" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0006" x="36" y="36" width="2849" height="1863" frameX="0" frameY="-25" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0007" x="36" y="36" width="2849" height="1863" frameX="0" frameY="-25" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0008" x="2889" y="1935" width="2824" height="1861" frameX="-12" frameY="-27" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0009" x="2889" y="1935" width="2824" height="1861" frameX="-12" frameY="-27" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0010" x="36" y="1935" width="2817" height="1875" frameX="-14" frameY="-19" frameWidth="2849" frameHeight="1894"/>
+	<SubTexture name="DEMONIDLE0011" x="36" y="1935" width="2817" height="1875" frameX="-14" frameY="-19" frameWidth="2849" frameHeight="1894"/>
+</TextureAtlas>

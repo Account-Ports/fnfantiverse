@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Up&Down.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DEMONDOWN0000" x="5360" y="4084" width="2598" height="1688" pivotX="-424.85" pivotY="830.45" frameX="-33" frameY="-68" frameWidth="2634" frameHeight="1756"/>
+	<SubTexture name="DEMONDOWN0001" x="5360" y="5808" width="2598" height="1688" frameX="-33" frameY="-68" frameWidth="2634" frameHeight="1756"/>
+	<SubTexture name="DEMONDOWN0002" x="36" y="5618" width="2626" height="1725" frameX="-8" frameY="-1" frameWidth="2634" frameHeight="1756"/>
+	<SubTexture name="DEMONDOWN0003" x="2698" y="4084" width="2626" height="1725" frameX="-8" frameY="-1" frameWidth="2634" frameHeight="1756"/>
+	<SubTexture name="DEMONDOWN0004" x="36" y="2082" width="2624" height="1732" frameX="0" frameY="0" frameWidth="2634" frameHeight="1756"/>
+	<SubTexture name="DEMONDOWN0005" x="36" y="3850" width="2624" height="1732" frameX="0" frameY="0" frameWidth="2634" frameHeight="1756"/>
+	<SubTexture name="DEMONUP0000" x="36" y="36" width="3074" height="2010" pivotX="1607.55" pivotY="1266.2" frameX="0" frameY="0" frameWidth="3084" frameHeight="2049"/>
+	<SubTexture name="DEMONUP0001" x="36" y="36" width="3074" height="2010" frameX="0" frameY="0" frameWidth="3084" frameHeight="2049"/>
+	<SubTexture name="DEMONUP0002" x="3146" y="36" width="3026" height="1986" frameX="-58" frameY="-63" frameWidth="3084" frameHeight="2049"/>
+	<SubTexture name="DEMONUP0003" x="3146" y="36" width="3026" height="1986" frameX="-58" frameY="-63" frameWidth="3084" frameHeight="2049"/>
+	<SubTexture name="DEMONUP0004" x="3146" y="2058" width="3009" height="1990" frameX="-68" frameY="-55" frameWidth="3084" frameHeight="2049"/>
+	<SubTexture name="DEMONUP0005" x="3146" y="2058" width="3009" height="1990" frameX="-68" frameY="-55" frameWidth="3084" frameHeight="2049"/>
+</TextureAtlas>

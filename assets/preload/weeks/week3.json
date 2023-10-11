@@ -1,0 +1,77 @@
+{
+	"songs": [
+		[
+			"no-party",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"i-still-see-you",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"revolt",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"rampage",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"y--2x---3",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"party-pooper",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

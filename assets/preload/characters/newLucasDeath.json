@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				238
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Death Intro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				237
+			],
+			"anim": "deathConfirm",
+			"fps": 26,
+			"name": "Death Confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-81,
+				247
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Death Loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/lucas_game-over",
+	"position": [
+		-520,
+		150
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		213,
+		118,
+		0
+	],
+	"camera_position": [
+		-90,
+		430
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

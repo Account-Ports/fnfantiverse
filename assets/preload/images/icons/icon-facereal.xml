@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-facereal.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RealIcon0000" x="10" y="10" width="138" height="176" frameX="-1" frameY="-1" frameWidth="141" frameHeight="178"/>
+	<SubTexture name="RealIcon0001" x="188" y="10" width="140" height="176" frameX="-1" frameY="-1" frameWidth="141" frameHeight="178"/>
+	<SubTexture name="RealIcon0002" x="10" y="226" width="138" height="177" frameX="0" frameY="0" frameWidth="141" frameHeight="178"/>
+	<SubTexture name="RealIcon0003" x="188" y="226" width="138" height="176" frameX="-1" frameY="-2" frameWidth="141" frameHeight="178"/>
+</TextureAtlas>
